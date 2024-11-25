@@ -1,4 +1,4 @@
-# .NET 8 Web API Monitoring with Prometheus, Jaeger, and Grafana Loki
+# API Monitoring with Prometheus, Jaeger, and Grafana Loki
 
 ## Project Overview
 
